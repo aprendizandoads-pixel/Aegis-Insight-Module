@@ -1,0 +1,5 @@
+{
+  "name": "Aegis Insight Module",
+  "description": "A comprehensive protective intelligence dashboard utilizing Gemini 1.5 Pro with Search Grounding to analyze digital footprints, validate threats in real-time, and provide actionable security insights for individuals.",
+  "requestFramePermissions": []
+}
